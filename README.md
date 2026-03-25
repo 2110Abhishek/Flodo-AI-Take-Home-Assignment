@@ -28,6 +28,6 @@ This repository contains the Flutter Task Management application for the Flodo A
 - High-quality code was generated with standard Flutter patterns via `provider`. State management and local data persistence were successfully unified without native complexities by using `shared_preferences`.
 
 ## 1-Minute Demo Video
-- *(Replace with a Google Drive link when submitting)*
+- https://drive.google.com/file/d/1gJsO6Ie_GreihABc-drEL6XbwzBhkEIK/view?usp=sharing
 
 *Note to Reviewer: Provide view access to nilay@flodo.ai on Google Drive for the video link as instructed.*
