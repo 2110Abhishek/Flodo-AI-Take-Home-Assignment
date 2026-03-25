@@ -29,5 +29,3 @@ This repository contains the Flutter Task Management application for the Flodo A
 
 ## 1-Minute Demo Video
 - https://drive.google.com/file/d/1gJsO6Ie_GreihABc-drEL6XbwzBhkEIK/view?usp=sharing
-
-*Note to Reviewer: Provide view access to nilay@flodo.ai on Google Drive for the video link as instructed.*
